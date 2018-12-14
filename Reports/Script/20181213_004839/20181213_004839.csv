@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Script,Chrome 71.0.3578.80,,2018-12-13 00:48:42,2018-12-13 00:49:12,"30,274s",FAILED
+,,,,,,
+Test Cases/Place order flow,Chrome 71.0.3578.80,,2018-12-13 00:48:42,2018-12-13 00:49:12,"29,161s",FAILED
+"openBrowser("""")",Chrome 71.0.3578.80,,2018-12-13 00:48:44,2018-12-13 00:48:50,"5,359s",PASSED
+driver = getWebDriver(),Chrome 71.0.3578.80,,2018-12-13 00:48:50,2018-12-13 00:48:50,"0,027s",PASSED
+"wait = new org.openqa.selenium.support.ui.WebDriverWait(driver, 300, 5000)",Chrome 71.0.3578.80,,2018-12-13 00:48:50,2018-12-13 00:48:50,"0,028s",PASSED
+js = driver,Chrome 71.0.3578.80,,2018-12-13 00:48:50,2018-12-13 00:48:50,"0,093s",PASSED
+maximizeWindow(),Chrome 71.0.3578.80,,2018-12-13 00:48:50,2018-12-13 00:48:51,"1,347s",PASSED
+"navigateToUrl(""https://ss3.shipstation.com/"")",Chrome 71.0.3578.80,,2018-12-13 00:48:51,2018-12-13 00:48:54,"3,220s",PASSED
+"setText(findTestObject(""ShipStatus_Page/LoginPage/input_EmailUsername_username""), ""Katalon"")",Chrome 71.0.3578.80,,2018-12-13 00:48:54,2018-12-13 00:49:09,"14,993s",FAILED

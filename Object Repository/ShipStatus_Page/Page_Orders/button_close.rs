@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_close</name>
+   <tag></tag>
+   <elementGuidId>7ce15e07-4b60-4598-8538-79dfb4e3348e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.modal-header.navigation > div > button > svg > use</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>use</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xlink:href</name>
+      <type>Main</type>
+      <value>#xmark</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;medium wf-roboto-n7-active wf-roboto-n4-active wf-adellesans-n7-active wf-adellesans-n4-active wf-roboto-n5-active wf-roboto-i5-active wf-roboto-i7-active wf-roboto-i4-active wf-active windowsos chrome&quot;]/body[1]/div[@class=&quot;modal order-detail in first-order&quot;]/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content&quot;]/div[@class=&quot;modal-header navigation&quot;]/div[@class=&quot;title clearfix&quot;]/button[@class=&quot;close pull-right&quot;]/svg[@class=&quot;icon&quot;]/use[1]</value>
+   </webElementProperties>
+</WebElementEntity>

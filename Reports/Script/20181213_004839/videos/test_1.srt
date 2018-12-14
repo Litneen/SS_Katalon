@@ -1,0 +1,28 @@
+1
+00:00:01,478 --> 00:00:01,548
+1. openBrowser("")
+
+2
+00:00:06,898 --> 00:00:06,900
+5. driver = getWebDriver()
+
+3
+00:00:06,923 --> 00:00:06,930
+9. wait = new org.openqa.selenium.support.ui.WebDriverWait(driver, 300, 5000)
+
+4
+00:00:06,954 --> 00:00:06,959
+13. js = driver
+
+5
+00:00:07,050 --> 00:00:07,055
+17. maximizeWindow()
+
+6
+00:00:08,398 --> 00:00:08,400
+21. navigateToUrl("https://ss3.shipstation.com/")
+
+7
+00:00:11,619 --> 00:00:11,621
+25. setText(findTestObject("ShipStatus_Page/LoginPage/input_EmailUsername_username"), "Katalon")
+
